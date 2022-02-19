@@ -21,10 +21,12 @@ label {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
 /* 评论切换按钮 */
-.secret_comment_check{
+.i-switch input {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
-
+:after, :before {
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
+}
 
 
 
