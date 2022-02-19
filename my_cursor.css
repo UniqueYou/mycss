@@ -1,0 +1,22 @@
+html.bg {
+  cursor: url(https://cdn.songonline.top/2022/02/18/455dc72e5128f.png), default !important;
+  }
+body {
+  cursor: url(https://cdn.songonline.top/2022/02/18/455dc72e5128f.png), default !important;
+  }
+a {
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important; 
+  }
+
+button {
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important; 
+}
+
+/* 评论选择表情按钮 */
+.OwO .OwO-logo {
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
+}
+/* 评论切换按钮 */
+.i-switch i:after i:before{
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
+}
