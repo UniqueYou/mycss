@@ -30,7 +30,7 @@ label {
 }
 
 /* 音乐播放器 上一曲、下一曲、暂停按钮 */
-.aplayer svg {
+.aplayer svg .aplayer-list{
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
 /* 音乐播放器 图片 信息 */
