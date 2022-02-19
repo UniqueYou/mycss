@@ -19,6 +19,7 @@ label {
 /* 评论选择表情按钮 */
 .OwO .OwO-logo {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
+  background: rgba(255,255,255,0);
 }
 /* 评论切换按钮 */
 .i-switch input {
@@ -28,5 +29,11 @@ label {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
 
-
-
+/* 音乐播放器 上一曲、下一曲、暂停按钮 */
+.aplayer svg {
+  cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
+}
+/* 音乐播放器 图片 信息 */
+.aplayer-pic .aplayer-music{
+  cursor: url(https://cdn.songonline.top/2022/02/18/455dc72e5128f.png), default !important;
+} 
