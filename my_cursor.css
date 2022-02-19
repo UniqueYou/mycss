@@ -12,11 +12,19 @@ button {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important; 
 }
 
+label {
+  cursor: url(https://cdn.songonline.top/2022/02/18/455dc72e5128f.png), default !important;
+}
+
 /* 评论选择表情按钮 */
 .OwO .OwO-logo {
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
 /* 评论切换按钮 */
-.i-switch i:after i:before{
+i::before{
   cursor: url(https://cdn.songonline.top/2022/02/18/f556c539326d0.png), pointer !important;
 }
+
+
+
+
